@@ -10,4 +10,4 @@ Run the code
 cd scara_robot
 python3 my_robot.py
 ```
-![Scara Robot Moved](https://github.com/siksal/a-star/blob/master/AStar%20picture.png)
+![Scara Robot Moved](https://github.com/siksal/scara_robot/blob/master/Scara2R.png)
